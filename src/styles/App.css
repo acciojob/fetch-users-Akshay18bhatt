@@ -1,1 +1,22 @@
 
+.heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.btn{
+    background-color: #107B8C;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+}
+.table{
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+td,tr{
+    border: 1px solid black;
+}
